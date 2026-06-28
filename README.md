@@ -12,7 +12,7 @@ Learning by making. :D
 Each project lives in its own numbered folder, and inside you'll find:
 - the Arduino sketch (`.ino`)
 - a `README.md` explaining what it does and how it's wired
-- a demo video or photo where available (I'm figuring this part out, so coming soon!)
+- a demo video or photo where available
 
 ## Projects so far
 
